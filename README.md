@@ -4,6 +4,7 @@
 
 ## Project Overview
 Each Jupyter notebook contains the code implementing a different machine learning method performed using the EyeGEx database found on the GTEx Portal website.
+
 ML Methods Implemented:
 - K-means Clustering (Implemented manually)
 - Principal Component Analysis (Implemented manually)
